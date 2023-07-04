@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at <a href="https://website-portfoliodev.000webhostapp.com/" target="blank">https://website-portfoliodev.000webhostapp.com/</a>
+- 👨‍💻 All of my projects are available at <a href="#" target="blank"></a>
 
 - 📫 How to reach me **Andersonofc23@gmail.com**
 
